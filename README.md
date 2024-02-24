@@ -1,13 +1,13 @@
-Hi 👋 My name is Johnny Ionescu
+Hi 👋 My name is Ionut Ionescu
 ===============================
 
 Web dev and designer
 --------------------
 
-I'm Johnny, and I kicked off my coding journey at the ripe age of 14. Fast forward to 17, and I'm stoked to call myself a web developer in the making. The cool part? I've got this knack for picking up programming languages like it's second nature. Beyond just coding syntax, I'm all about problem-solving and understanding the nitty-gritty principles. Give me JS, HTML, CSS, React, and Tailwind, and I'll weave them together into sleek and efficient solutions. Oh, and did I mention I dabble in Figma too? Yup, I bring a creative touch to my coding game. As I dive deeper into web development, my adaptability and commitment to staying on the tech pulse are always on point. I'm not just a coder; I'm that dynamic force ready to make waves in the digital realm. Stay tuned—I'm just getting started!
+I'm Ionut, and I kicked off my coding journey at the ripe age of 14. Fast forward to 17, and I'm stoked to call myself a web developer in the making. The cool part? I've got this knack for picking up programming languages like it's second nature. Beyond just coding syntax, I'm all about problem-solving and understanding the nitty-gritty principles. Give me JS, HTML, CSS, React, and Tailwind, and I'll weave them together into sleek and efficient solutions. Oh, and did I mention I dabble in Figma too? Yup, I bring a creative touch to my coding game. As I dive deeper into web development, my adaptability and commitment to staying on the tech pulse are always on point. I'm not just a coder; I'm that dynamic force ready to make waves in the digital realm. Stay tuned—I'm just getting started!
 
 * 🌍  I'm based in Oxford
-* 🤝  I'm open to collaborating on ANYTHING
+* 🤝  I'm open to collaborating on most projects
 
 ### Skills
 
