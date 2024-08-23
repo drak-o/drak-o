@@ -1,10 +1,10 @@
-Hi 👋 My name is Ionut Ionescu
+Hi 👋
 ===============================
 
 Web dev and designer
 --------------------
 
-I'm Ionut, and I kicked off my coding journey at the ripe age of 14. Fast forward to 18, and I'm stoked to call myself a web developer 
+I started at the age of 14. Fast forward to 18, and I am a web developer. 
 * 🌍  I'm based in Oxford
 * 🤝  I'm open to collaborating on most projects
 
