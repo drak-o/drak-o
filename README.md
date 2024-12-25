@@ -3,8 +3,6 @@ Hi 👋
 
 Web dev and designer
 --------------------
-
-I started at the age of 14. Fast forward to 18, and I am a web developer. 
 * 🌍  I'm based in Oxford
 * 🤝  I'm open to collaborating on most projects
 
