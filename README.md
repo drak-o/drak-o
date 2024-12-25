@@ -1,10 +1,7 @@
-Hi 👋
-===============================
-
-Web dev and designer
+Software Dev and Designer
 --------------------
-* 🌍  I'm based in Oxford
-* 🤝  I'm open to collaborating on most projects
+* I'm based in Oxford
+* I'm open to collaborating on most projects
 
 ### Skills
 
